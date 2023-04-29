@@ -1,0 +1,156 @@
+*{
+   margin: 0;
+   padding: 0;
+   
+    
+}
+#wrapper{
+    overflow-x: hidden;
+    
+}
+#container1
+{
+display: flex; 
+justify-content: space-evenly;
+position: absolute;
+width: 100%;
+height: 592px;
+left: 0px;
+top: -1px;
+background: #FFCD9E;
+}
+#container2{
+display: flex; 
+justify-content: space-evenly;
+position: absolute;
+width: 100%;
+height: 298px;
+left: 0px;
+top: 592px;
+background: #282828;
+}
+#left{
+position: absolute;
+top: 15%;
+left: 6%;
+}
+
+.quote-1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 150%;
+color: #282828;
+}
+.quote-2{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 160%;
+display: flex;
+align-items: center;
+color: #484848;
+}
+.quote-3{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 160%;
+display: flex;
+align-items: center;
+color: #282828;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+.login{
+background: #FFFFFF;
+border: 4px solid #000000;
+border-radius: 5px;
+width: 344px;
+height: 64px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 160%;
+display: flex;
+align-items: center;
+color: #888888;
+text-indent: 20px;
+}
+.login1{
+position: absolute;
+width: 216px;
+height: 72px;
+top:74%;
+left:75%;
+background: #282828;
+border-radius: 8px;
+color: white;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+text-indent: 50px;
+}
+.quote-4{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 160%;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+
+}
+#right{
+position: absolute;
+right: 10%;
+top: 15%;
+}
+#container2{
+display: flex; 
+justify-content: space-evenly;
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+color: #FFFFFF;
+}
+#left1{
+
+    position: absolute;
+    left: 10%;
+    top:20%;
+
+}
+#right1{
+    position: absolute;
+    right: 10%;
+    top:20%;
+    
+}
+
+#right1 img{
+    
+    height: 1.5rem;
+    width: 1.5rem;
+    
+}
+.coll4{
+    position: absolute;
+    padding-top: 30px;
+    right: 0;
+}
+
